@@ -1,0 +1,14 @@
+C:\Users\Yehor\Desktop\itvdn\FirstProgram\Beep\bin\Debug\net6.0\Beep.exe
+C:\Users\Yehor\Desktop\itvdn\FirstProgram\Beep\bin\Debug\net6.0\Beep.deps.json
+C:\Users\Yehor\Desktop\itvdn\FirstProgram\Beep\bin\Debug\net6.0\Beep.runtimeconfig.json
+C:\Users\Yehor\Desktop\itvdn\FirstProgram\Beep\bin\Debug\net6.0\Beep.dll
+C:\Users\Yehor\Desktop\itvdn\FirstProgram\Beep\bin\Debug\net6.0\Beep.pdb
+C:\Users\Yehor\Desktop\itvdn\FirstProgram\Beep\obj\Debug\net6.0\Beep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yehor\Desktop\itvdn\FirstProgram\Beep\obj\Debug\net6.0\Beep.AssemblyInfoInputs.cache
+C:\Users\Yehor\Desktop\itvdn\FirstProgram\Beep\obj\Debug\net6.0\Beep.AssemblyInfo.cs
+C:\Users\Yehor\Desktop\itvdn\FirstProgram\Beep\obj\Debug\net6.0\Beep.csproj.CoreCompileInputs.cache
+C:\Users\Yehor\Desktop\itvdn\FirstProgram\Beep\obj\Debug\net6.0\Beep.dll
+C:\Users\Yehor\Desktop\itvdn\FirstProgram\Beep\obj\Debug\net6.0\refint\Beep.dll
+C:\Users\Yehor\Desktop\itvdn\FirstProgram\Beep\obj\Debug\net6.0\Beep.pdb
+C:\Users\Yehor\Desktop\itvdn\FirstProgram\Beep\obj\Debug\net6.0\Beep.genruntimeconfig.cache
+C:\Users\Yehor\Desktop\itvdn\FirstProgram\Beep\obj\Debug\net6.0\ref\Beep.dll
