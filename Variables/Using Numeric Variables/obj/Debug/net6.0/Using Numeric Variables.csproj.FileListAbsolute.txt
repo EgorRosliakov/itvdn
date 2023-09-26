@@ -1,0 +1,14 @@
+C:\Users\Yehor\Desktop\Variables\Using Numeric Variables\bin\Debug\net6.0\Using Numeric Variables.exe
+C:\Users\Yehor\Desktop\Variables\Using Numeric Variables\bin\Debug\net6.0\Using Numeric Variables.deps.json
+C:\Users\Yehor\Desktop\Variables\Using Numeric Variables\bin\Debug\net6.0\Using Numeric Variables.runtimeconfig.json
+C:\Users\Yehor\Desktop\Variables\Using Numeric Variables\bin\Debug\net6.0\Using Numeric Variables.dll
+C:\Users\Yehor\Desktop\Variables\Using Numeric Variables\bin\Debug\net6.0\Using Numeric Variables.pdb
+C:\Users\Yehor\Desktop\Variables\Using Numeric Variables\obj\Debug\net6.0\Using Numeric Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yehor\Desktop\Variables\Using Numeric Variables\obj\Debug\net6.0\Using Numeric Variables.AssemblyInfoInputs.cache
+C:\Users\Yehor\Desktop\Variables\Using Numeric Variables\obj\Debug\net6.0\Using Numeric Variables.AssemblyInfo.cs
+C:\Users\Yehor\Desktop\Variables\Using Numeric Variables\obj\Debug\net6.0\Using Numeric Variables.csproj.CoreCompileInputs.cache
+C:\Users\Yehor\Desktop\Variables\Using Numeric Variables\obj\Debug\net6.0\Using Numeric Variables.dll
+C:\Users\Yehor\Desktop\Variables\Using Numeric Variables\obj\Debug\net6.0\refint\Using Numeric Variables.dll
+C:\Users\Yehor\Desktop\Variables\Using Numeric Variables\obj\Debug\net6.0\Using Numeric Variables.pdb
+C:\Users\Yehor\Desktop\Variables\Using Numeric Variables\obj\Debug\net6.0\Using Numeric Variables.genruntimeconfig.cache
+C:\Users\Yehor\Desktop\Variables\Using Numeric Variables\obj\Debug\net6.0\ref\Using Numeric Variables.dll
