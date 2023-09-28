@@ -1,0 +1,14 @@
+C:\Users\Yehor\Desktop\Arithmetic operators\Operations on string variables\bin\Debug\net6.0\Operations on string variables.exe
+C:\Users\Yehor\Desktop\Arithmetic operators\Operations on string variables\bin\Debug\net6.0\Operations on string variables.deps.json
+C:\Users\Yehor\Desktop\Arithmetic operators\Operations on string variables\bin\Debug\net6.0\Operations on string variables.runtimeconfig.json
+C:\Users\Yehor\Desktop\Arithmetic operators\Operations on string variables\bin\Debug\net6.0\Operations on string variables.dll
+C:\Users\Yehor\Desktop\Arithmetic operators\Operations on string variables\bin\Debug\net6.0\Operations on string variables.pdb
+C:\Users\Yehor\Desktop\Arithmetic operators\Operations on string variables\obj\Debug\net6.0\Operations on string variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yehor\Desktop\Arithmetic operators\Operations on string variables\obj\Debug\net6.0\Operations on string variables.AssemblyInfoInputs.cache
+C:\Users\Yehor\Desktop\Arithmetic operators\Operations on string variables\obj\Debug\net6.0\Operations on string variables.AssemblyInfo.cs
+C:\Users\Yehor\Desktop\Arithmetic operators\Operations on string variables\obj\Debug\net6.0\Operations on string variables.csproj.CoreCompileInputs.cache
+C:\Users\Yehor\Desktop\Arithmetic operators\Operations on string variables\obj\Debug\net6.0\Operations on string variables.dll
+C:\Users\Yehor\Desktop\Arithmetic operators\Operations on string variables\obj\Debug\net6.0\refint\Operations on string variables.dll
+C:\Users\Yehor\Desktop\Arithmetic operators\Operations on string variables\obj\Debug\net6.0\Operations on string variables.pdb
+C:\Users\Yehor\Desktop\Arithmetic operators\Operations on string variables\obj\Debug\net6.0\Operations on string variables.genruntimeconfig.cache
+C:\Users\Yehor\Desktop\Arithmetic operators\Operations on string variables\obj\Debug\net6.0\ref\Operations on string variables.dll
