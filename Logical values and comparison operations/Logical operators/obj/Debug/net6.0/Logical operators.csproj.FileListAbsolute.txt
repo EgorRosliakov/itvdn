@@ -1,0 +1,14 @@
+C:\Users\Yehor\Desktop\Logical values and comparison operations\Logical operators\bin\Debug\net6.0\Logical operators.exe
+C:\Users\Yehor\Desktop\Logical values and comparison operations\Logical operators\bin\Debug\net6.0\Logical operators.deps.json
+C:\Users\Yehor\Desktop\Logical values and comparison operations\Logical operators\bin\Debug\net6.0\Logical operators.runtimeconfig.json
+C:\Users\Yehor\Desktop\Logical values and comparison operations\Logical operators\bin\Debug\net6.0\Logical operators.dll
+C:\Users\Yehor\Desktop\Logical values and comparison operations\Logical operators\bin\Debug\net6.0\Logical operators.pdb
+C:\Users\Yehor\Desktop\Logical values and comparison operations\Logical operators\obj\Debug\net6.0\Logical operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yehor\Desktop\Logical values and comparison operations\Logical operators\obj\Debug\net6.0\Logical operators.AssemblyInfoInputs.cache
+C:\Users\Yehor\Desktop\Logical values and comparison operations\Logical operators\obj\Debug\net6.0\Logical operators.AssemblyInfo.cs
+C:\Users\Yehor\Desktop\Logical values and comparison operations\Logical operators\obj\Debug\net6.0\Logical operators.csproj.CoreCompileInputs.cache
+C:\Users\Yehor\Desktop\Logical values and comparison operations\Logical operators\obj\Debug\net6.0\Logical operators.dll
+C:\Users\Yehor\Desktop\Logical values and comparison operations\Logical operators\obj\Debug\net6.0\refint\Logical operators.dll
+C:\Users\Yehor\Desktop\Logical values and comparison operations\Logical operators\obj\Debug\net6.0\Logical operators.pdb
+C:\Users\Yehor\Desktop\Logical values and comparison operations\Logical operators\obj\Debug\net6.0\Logical operators.genruntimeconfig.cache
+C:\Users\Yehor\Desktop\Logical values and comparison operations\Logical operators\obj\Debug\net6.0\ref\Logical operators.dll

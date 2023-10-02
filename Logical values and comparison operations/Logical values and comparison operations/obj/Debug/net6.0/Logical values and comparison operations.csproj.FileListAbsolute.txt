@@ -1,0 +1,14 @@
+C:\Users\Yehor\Desktop\Logical values and comparison operations\Logical values and comparison operations\bin\Debug\net6.0\Logical values and comparison operations.exe
+C:\Users\Yehor\Desktop\Logical values and comparison operations\Logical values and comparison operations\bin\Debug\net6.0\Logical values and comparison operations.deps.json
+C:\Users\Yehor\Desktop\Logical values and comparison operations\Logical values and comparison operations\bin\Debug\net6.0\Logical values and comparison operations.runtimeconfig.json
+C:\Users\Yehor\Desktop\Logical values and comparison operations\Logical values and comparison operations\bin\Debug\net6.0\Logical values and comparison operations.dll
+C:\Users\Yehor\Desktop\Logical values and comparison operations\Logical values and comparison operations\bin\Debug\net6.0\Logical values and comparison operations.pdb
+C:\Users\Yehor\Desktop\Logical values and comparison operations\Logical values and comparison operations\obj\Debug\net6.0\Logical values and comparison operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yehor\Desktop\Logical values and comparison operations\Logical values and comparison operations\obj\Debug\net6.0\Logical values and comparison operations.AssemblyInfoInputs.cache
+C:\Users\Yehor\Desktop\Logical values and comparison operations\Logical values and comparison operations\obj\Debug\net6.0\Logical values and comparison operations.AssemblyInfo.cs
+C:\Users\Yehor\Desktop\Logical values and comparison operations\Logical values and comparison operations\obj\Debug\net6.0\Logical values and comparison operations.csproj.CoreCompileInputs.cache
+C:\Users\Yehor\Desktop\Logical values and comparison operations\Logical values and comparison operations\obj\Debug\net6.0\Logical values and comparison operations.dll
+C:\Users\Yehor\Desktop\Logical values and comparison operations\Logical values and comparison operations\obj\Debug\net6.0\refint\Logical values and comparison operations.dll
+C:\Users\Yehor\Desktop\Logical values and comparison operations\Logical values and comparison operations\obj\Debug\net6.0\Logical values and comparison operations.pdb
+C:\Users\Yehor\Desktop\Logical values and comparison operations\Logical values and comparison operations\obj\Debug\net6.0\Logical values and comparison operations.genruntimeconfig.cache
+C:\Users\Yehor\Desktop\Logical values and comparison operations\Logical values and comparison operations\obj\Debug\net6.0\ref\Logical values and comparison operations.dll
