@@ -1,0 +1,14 @@
+C:\Users\Yehor\Desktop\Rules for creating variables\Variable scopes\bin\Debug\net6.0\Variable scopes.exe
+C:\Users\Yehor\Desktop\Rules for creating variables\Variable scopes\bin\Debug\net6.0\Variable scopes.deps.json
+C:\Users\Yehor\Desktop\Rules for creating variables\Variable scopes\bin\Debug\net6.0\Variable scopes.runtimeconfig.json
+C:\Users\Yehor\Desktop\Rules for creating variables\Variable scopes\bin\Debug\net6.0\Variable scopes.dll
+C:\Users\Yehor\Desktop\Rules for creating variables\Variable scopes\bin\Debug\net6.0\Variable scopes.pdb
+C:\Users\Yehor\Desktop\Rules for creating variables\Variable scopes\obj\Debug\net6.0\Variable scopes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yehor\Desktop\Rules for creating variables\Variable scopes\obj\Debug\net6.0\Variable scopes.AssemblyInfoInputs.cache
+C:\Users\Yehor\Desktop\Rules for creating variables\Variable scopes\obj\Debug\net6.0\Variable scopes.AssemblyInfo.cs
+C:\Users\Yehor\Desktop\Rules for creating variables\Variable scopes\obj\Debug\net6.0\Variable scopes.csproj.CoreCompileInputs.cache
+C:\Users\Yehor\Desktop\Rules for creating variables\Variable scopes\obj\Debug\net6.0\Variable scopes.dll
+C:\Users\Yehor\Desktop\Rules for creating variables\Variable scopes\obj\Debug\net6.0\refint\Variable scopes.dll
+C:\Users\Yehor\Desktop\Rules for creating variables\Variable scopes\obj\Debug\net6.0\Variable scopes.pdb
+C:\Users\Yehor\Desktop\Rules for creating variables\Variable scopes\obj\Debug\net6.0\Variable scopes.genruntimeconfig.cache
+C:\Users\Yehor\Desktop\Rules for creating variables\Variable scopes\obj\Debug\net6.0\ref\Variable scopes.dll

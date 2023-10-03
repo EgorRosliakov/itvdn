@@ -1,0 +1,14 @@
+C:\Users\Yehor\Desktop\Rules for creating variables\Rules for creating variables\bin\Debug\net6.0\Rules for creating variables.exe
+C:\Users\Yehor\Desktop\Rules for creating variables\Rules for creating variables\bin\Debug\net6.0\Rules for creating variables.deps.json
+C:\Users\Yehor\Desktop\Rules for creating variables\Rules for creating variables\bin\Debug\net6.0\Rules for creating variables.runtimeconfig.json
+C:\Users\Yehor\Desktop\Rules for creating variables\Rules for creating variables\bin\Debug\net6.0\Rules for creating variables.dll
+C:\Users\Yehor\Desktop\Rules for creating variables\Rules for creating variables\bin\Debug\net6.0\Rules for creating variables.pdb
+C:\Users\Yehor\Desktop\Rules for creating variables\Rules for creating variables\obj\Debug\net6.0\Rules for creating variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yehor\Desktop\Rules for creating variables\Rules for creating variables\obj\Debug\net6.0\Rules for creating variables.AssemblyInfoInputs.cache
+C:\Users\Yehor\Desktop\Rules for creating variables\Rules for creating variables\obj\Debug\net6.0\Rules for creating variables.AssemblyInfo.cs
+C:\Users\Yehor\Desktop\Rules for creating variables\Rules for creating variables\obj\Debug\net6.0\Rules for creating variables.csproj.CoreCompileInputs.cache
+C:\Users\Yehor\Desktop\Rules for creating variables\Rules for creating variables\obj\Debug\net6.0\Rules for creating variables.dll
+C:\Users\Yehor\Desktop\Rules for creating variables\Rules for creating variables\obj\Debug\net6.0\refint\Rules for creating variables.dll
+C:\Users\Yehor\Desktop\Rules for creating variables\Rules for creating variables\obj\Debug\net6.0\Rules for creating variables.pdb
+C:\Users\Yehor\Desktop\Rules for creating variables\Rules for creating variables\obj\Debug\net6.0\Rules for creating variables.genruntimeconfig.cache
+C:\Users\Yehor\Desktop\Rules for creating variables\Rules for creating variables\obj\Debug\net6.0\ref\Rules for creating variables.dll

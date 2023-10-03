@@ -1,0 +1,14 @@
+C:\Users\Yehor\Desktop\Rules for creating variables\CheckedUnchecked Operators\bin\Debug\net6.0\CheckedUnchecked Operators.exe
+C:\Users\Yehor\Desktop\Rules for creating variables\CheckedUnchecked Operators\bin\Debug\net6.0\CheckedUnchecked Operators.deps.json
+C:\Users\Yehor\Desktop\Rules for creating variables\CheckedUnchecked Operators\bin\Debug\net6.0\CheckedUnchecked Operators.runtimeconfig.json
+C:\Users\Yehor\Desktop\Rules for creating variables\CheckedUnchecked Operators\bin\Debug\net6.0\CheckedUnchecked Operators.dll
+C:\Users\Yehor\Desktop\Rules for creating variables\CheckedUnchecked Operators\bin\Debug\net6.0\CheckedUnchecked Operators.pdb
+C:\Users\Yehor\Desktop\Rules for creating variables\CheckedUnchecked Operators\obj\Debug\net6.0\CheckedUnchecked Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yehor\Desktop\Rules for creating variables\CheckedUnchecked Operators\obj\Debug\net6.0\CheckedUnchecked Operators.AssemblyInfoInputs.cache
+C:\Users\Yehor\Desktop\Rules for creating variables\CheckedUnchecked Operators\obj\Debug\net6.0\CheckedUnchecked Operators.AssemblyInfo.cs
+C:\Users\Yehor\Desktop\Rules for creating variables\CheckedUnchecked Operators\obj\Debug\net6.0\CheckedUnchecked Operators.csproj.CoreCompileInputs.cache
+C:\Users\Yehor\Desktop\Rules for creating variables\CheckedUnchecked Operators\obj\Debug\net6.0\CheckedUnchecked Operators.dll
+C:\Users\Yehor\Desktop\Rules for creating variables\CheckedUnchecked Operators\obj\Debug\net6.0\refint\CheckedUnchecked Operators.dll
+C:\Users\Yehor\Desktop\Rules for creating variables\CheckedUnchecked Operators\obj\Debug\net6.0\CheckedUnchecked Operators.pdb
+C:\Users\Yehor\Desktop\Rules for creating variables\CheckedUnchecked Operators\obj\Debug\net6.0\CheckedUnchecked Operators.genruntimeconfig.cache
+C:\Users\Yehor\Desktop\Rules for creating variables\CheckedUnchecked Operators\obj\Debug\net6.0\ref\CheckedUnchecked Operators.dll
