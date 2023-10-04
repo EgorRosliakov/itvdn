@@ -1,0 +1,14 @@
+C:\Users\Yehor\Desktop\Constants\Complexity and imaginary actions\bin\Debug\net6.0\Complexity and imaginary actions.exe
+C:\Users\Yehor\Desktop\Constants\Complexity and imaginary actions\bin\Debug\net6.0\Complexity and imaginary actions.deps.json
+C:\Users\Yehor\Desktop\Constants\Complexity and imaginary actions\bin\Debug\net6.0\Complexity and imaginary actions.runtimeconfig.json
+C:\Users\Yehor\Desktop\Constants\Complexity and imaginary actions\bin\Debug\net6.0\Complexity and imaginary actions.dll
+C:\Users\Yehor\Desktop\Constants\Complexity and imaginary actions\bin\Debug\net6.0\Complexity and imaginary actions.pdb
+C:\Users\Yehor\Desktop\Constants\Complexity and imaginary actions\obj\Debug\net6.0\Complexity and imaginary actions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yehor\Desktop\Constants\Complexity and imaginary actions\obj\Debug\net6.0\Complexity and imaginary actions.AssemblyInfoInputs.cache
+C:\Users\Yehor\Desktop\Constants\Complexity and imaginary actions\obj\Debug\net6.0\Complexity and imaginary actions.AssemblyInfo.cs
+C:\Users\Yehor\Desktop\Constants\Complexity and imaginary actions\obj\Debug\net6.0\Complexity and imaginary actions.csproj.CoreCompileInputs.cache
+C:\Users\Yehor\Desktop\Constants\Complexity and imaginary actions\obj\Debug\net6.0\Complexity and imaginary actions.dll
+C:\Users\Yehor\Desktop\Constants\Complexity and imaginary actions\obj\Debug\net6.0\refint\Complexity and imaginary actions.dll
+C:\Users\Yehor\Desktop\Constants\Complexity and imaginary actions\obj\Debug\net6.0\Complexity and imaginary actions.pdb
+C:\Users\Yehor\Desktop\Constants\Complexity and imaginary actions\obj\Debug\net6.0\Complexity and imaginary actions.genruntimeconfig.cache
+C:\Users\Yehor\Desktop\Constants\Complexity and imaginary actions\obj\Debug\net6.0\ref\Complexity and imaginary actions.dll
