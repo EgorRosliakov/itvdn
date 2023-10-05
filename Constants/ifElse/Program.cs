@@ -3,7 +3,7 @@
 Если число больше 3 – нужно увеличить значение переменной, хранящей число, на
 10. Иначе – увеличить эту переменную в 10 раз. Вывести значение переменной.*/
 
-Console.WriteLine("Enter integer number: ");
+/*Console.WriteLine("Enter integer number: ");
 int userNumber = Convert.ToInt32(Console.ReadLine());
 
 if (userNumber > 3)
@@ -14,7 +14,7 @@ else
 {
     userNumber *= 10;
 }
-Console.WriteLine($"Number: " + userNumber);
+Console.WriteLine($"Number: " + userNumber);*/
 
 /*Напишите программу, в которой в теле метода Main примите от пользователя три
 стороны треугольника. Далее:
