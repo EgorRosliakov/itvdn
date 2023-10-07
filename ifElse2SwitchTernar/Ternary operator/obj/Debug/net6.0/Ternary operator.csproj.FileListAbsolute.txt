@@ -1,0 +1,14 @@
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\Ternary operator\bin\Debug\net6.0\Ternary operator.exe
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\Ternary operator\bin\Debug\net6.0\Ternary operator.deps.json
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\Ternary operator\bin\Debug\net6.0\Ternary operator.runtimeconfig.json
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\Ternary operator\bin\Debug\net6.0\Ternary operator.dll
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\Ternary operator\bin\Debug\net6.0\Ternary operator.pdb
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\Ternary operator\obj\Debug\net6.0\Ternary operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\Ternary operator\obj\Debug\net6.0\Ternary operator.AssemblyInfoInputs.cache
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\Ternary operator\obj\Debug\net6.0\Ternary operator.AssemblyInfo.cs
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\Ternary operator\obj\Debug\net6.0\Ternary operator.csproj.CoreCompileInputs.cache
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\Ternary operator\obj\Debug\net6.0\Ternary operator.dll
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\Ternary operator\obj\Debug\net6.0\refint\Ternary operator.dll
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\Ternary operator\obj\Debug\net6.0\Ternary operator.pdb
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\Ternary operator\obj\Debug\net6.0\Ternary operator.genruntimeconfig.cache
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\Ternary operator\obj\Debug\net6.0\ref\Ternary operator.dll

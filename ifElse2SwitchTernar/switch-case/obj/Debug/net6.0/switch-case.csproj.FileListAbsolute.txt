@@ -1,0 +1,14 @@
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\switch-case\bin\Debug\net6.0\switch-case.exe
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\switch-case\bin\Debug\net6.0\switch-case.deps.json
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\switch-case\bin\Debug\net6.0\switch-case.runtimeconfig.json
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\switch-case\bin\Debug\net6.0\switch-case.dll
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\switch-case\bin\Debug\net6.0\switch-case.pdb
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\switch-case\obj\Debug\net6.0\switch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\switch-case\obj\Debug\net6.0\switch-case.AssemblyInfoInputs.cache
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\switch-case\obj\Debug\net6.0\switch-case.AssemblyInfo.cs
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\switch-case\obj\Debug\net6.0\switch-case.csproj.CoreCompileInputs.cache
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\switch-case\obj\Debug\net6.0\switch-case.dll
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\switch-case\obj\Debug\net6.0\refint\switch-case.dll
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\switch-case\obj\Debug\net6.0\switch-case.pdb
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\switch-case\obj\Debug\net6.0\switch-case.genruntimeconfig.cache
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\switch-case\obj\Debug\net6.0\ref\switch-case.dll

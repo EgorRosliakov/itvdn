@@ -1,0 +1,14 @@
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\ifElse2SwitchTernar\bin\Debug\net6.0\ifElse2SwitchTernar.exe
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\ifElse2SwitchTernar\bin\Debug\net6.0\ifElse2SwitchTernar.deps.json
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\ifElse2SwitchTernar\bin\Debug\net6.0\ifElse2SwitchTernar.runtimeconfig.json
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\ifElse2SwitchTernar\bin\Debug\net6.0\ifElse2SwitchTernar.dll
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\ifElse2SwitchTernar\bin\Debug\net6.0\ifElse2SwitchTernar.pdb
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\ifElse2SwitchTernar\obj\Debug\net6.0\ifElse2SwitchTernar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\ifElse2SwitchTernar\obj\Debug\net6.0\ifElse2SwitchTernar.AssemblyInfoInputs.cache
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\ifElse2SwitchTernar\obj\Debug\net6.0\ifElse2SwitchTernar.AssemblyInfo.cs
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\ifElse2SwitchTernar\obj\Debug\net6.0\ifElse2SwitchTernar.csproj.CoreCompileInputs.cache
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\ifElse2SwitchTernar\obj\Debug\net6.0\ifElse2SwitchTernar.dll
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\ifElse2SwitchTernar\obj\Debug\net6.0\refint\ifElse2SwitchTernar.dll
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\ifElse2SwitchTernar\obj\Debug\net6.0\ifElse2SwitchTernar.pdb
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\ifElse2SwitchTernar\obj\Debug\net6.0\ifElse2SwitchTernar.genruntimeconfig.cache
+C:\Users\Yehor\Desktop\ifElse2SwitchTernar\ifElse2SwitchTernar\obj\Debug\net6.0\ref\ifElse2SwitchTernar.dll
