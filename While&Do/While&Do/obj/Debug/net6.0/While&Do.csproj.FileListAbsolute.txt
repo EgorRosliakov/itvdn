@@ -1,0 +1,14 @@
+C:\Users\Yehor\Desktop\While&Do\While&Do\bin\Debug\net6.0\While&Do.exe
+C:\Users\Yehor\Desktop\While&Do\While&Do\bin\Debug\net6.0\While&Do.deps.json
+C:\Users\Yehor\Desktop\While&Do\While&Do\bin\Debug\net6.0\While&Do.runtimeconfig.json
+C:\Users\Yehor\Desktop\While&Do\While&Do\bin\Debug\net6.0\While&Do.dll
+C:\Users\Yehor\Desktop\While&Do\While&Do\bin\Debug\net6.0\While&Do.pdb
+C:\Users\Yehor\Desktop\While&Do\While&Do\obj\Debug\net6.0\While&Do.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yehor\Desktop\While&Do\While&Do\obj\Debug\net6.0\While&Do.AssemblyInfoInputs.cache
+C:\Users\Yehor\Desktop\While&Do\While&Do\obj\Debug\net6.0\While&Do.AssemblyInfo.cs
+C:\Users\Yehor\Desktop\While&Do\While&Do\obj\Debug\net6.0\While&Do.csproj.CoreCompileInputs.cache
+C:\Users\Yehor\Desktop\While&Do\While&Do\obj\Debug\net6.0\While&Do.dll
+C:\Users\Yehor\Desktop\While&Do\While&Do\obj\Debug\net6.0\refint\While&Do.dll
+C:\Users\Yehor\Desktop\While&Do\While&Do\obj\Debug\net6.0\While&Do.pdb
+C:\Users\Yehor\Desktop\While&Do\While&Do\obj\Debug\net6.0\While&Do.genruntimeconfig.cache
+C:\Users\Yehor\Desktop\While&Do\While&Do\obj\Debug\net6.0\ref\While&Do.dll
