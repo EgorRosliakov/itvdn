@@ -38,6 +38,7 @@ if (hight > width)
     hight = width;
     width = temp;
 }
+
 if (hight < 1 || width < 1)
 {
     Console.WriteLine("Error, enter correct values");
@@ -54,12 +55,11 @@ else
             Console.Write(" ");
             i++;
         }
-        int j = 0;
-        while (j < width - 2 * z)
+         i = 0;
+        while (i < width - 2 * z)
         {
             Console.Write("*");
-            j++;
-
+            i++;
         }
         Console.WriteLine();
         counter++;
