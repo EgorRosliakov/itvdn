@@ -156,7 +156,7 @@ while (index < integerArray.Length)
 
 /*Есть массив, найти определенный елемент*/
 
-int[] numbers = { 8, -3, 9, -1, 0, 1, 5, 3 };      // 8 элементов,  7 индексов
+/*int[] numbers = { 8, -3, 9, -1, 0, 1, 5, 3 };      // 8 элементов,  7 индексов
 
 Console.WriteLine("Enter number: ");
 int userNumber = Convert.ToInt32(Console.ReadLine());
@@ -182,5 +182,175 @@ if (found)
 else
 {
     Console.WriteLine("there is no such element");
+}*/
+
+
+
+/*вывести четные и нечетные елементы в массиве*/
+
+/*int[] array = new int[] { -2, 1, -8, 3, 8, -3, 7, 4, -8, 6 };
+
+int index = 0;
+
+Console.WriteLine("Even numbers: ");
+
+while (index < array.Length)
+{
+    if (array[index] % 2 == 0)
+        Console.Write(array[index]);
+    index++;
 }
 
+Console.WriteLine("\nOdd numbers: ");
+index = 0;
+while (index < array.Length)
+{
+    if (array[index] % 2 != 0)
+        Console.Write(array[index]);
+    index++;
+}*/
+
+
+/*есть массив, удалить 1 элемент*/
+
+/*int[] array = new int[] { -2, 1, -8, 3, 8, -3, 7, 4, -8, 6 };
+
+Console.WriteLine("We have array: ");
+
+int index = 0;
+while (index < array.Length)
+{
+    Console.Write(array[index]);
+    index++;
+}
+
+Console.WriteLine("\nWhat element you want remove?: ");
+int userRemove = Convert.ToInt32(Console.ReadLine());
+
+int countRemove = 0;
+
+index = 0;
+
+while (index < array.Length)
+{
+    if (array[index] == userRemove)
+    {
+        countRemove++;
+    }
+    index++;
+}
+
+int[] newArray = new int[array.Length - countRemove];
+int newIndex = 0;
+
+index = 0;
+while (index < array.Length)
+{
+    if (array[index] != userRemove)
+    {
+        newArray[newIndex] = array[index]
+            ; newIndex++;
+    }
+    index++;
+}
+
+index = 0;
+while (index < newArray.Length)
+{
+    Console.Write(newArray[index]);
+    index++;
+}*/
+
+/*for(int x = 5, y = 10; x < y; x++, y--)
+{
+    Console.WriteLine(x + y);
+}*/
+
+/*int[] array = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+
+for (int i = array.Length - 5; i < array.Length; i += 2)
+
+{
+
+    Console.Write(array[i]);
+
+}*/
+
+/*Напишите программу, в которой, используя конструкции цикла со счетчиком:
+1.Выведите на экран консоли все числа от 0 до 100;
+2.Выведите на экран числа от 1001 до 2500 с шагом – 3;
+3.Выведите числа от 100 до 0 с шагом – 4;
+4.Выведите числа от 1 до 5 с шагом 0,2.*/
+
+/*for (int i = 0; i <= 100; i++)
+{
+    Console.WriteLine(i);
+}*/
+
+/*for (int i = 1001; i <= 2500; i+=3)
+{
+    Console.WriteLine(i);
+}*/
+
+/*for (int i = 100; i >= 0; i -= 4)
+{
+    Console.WriteLine(i);
+}*/
+
+/*for (double i = 1; i < 5; i += 0.2)
+{
+    Console.WriteLine(i);
+}*/
+
+/*Console.WriteLine("Enter number y: ");
+int y = Convert.ToInt32(Console.ReadLine());
+
+int x = 0;
+
+while (x < y)
+{
+    Console.SetCursorPosition(y - x, x + 2);
+    int z = 0;
+    while (z <= x * 2)
+    {
+        Console.Write("*");
+        z++;
+    }
+    Console.WriteLine();
+    x++;
+}
+*/
+
+int high = 3;
+int margin = high - 1;  // отступ от левого края
+int starCount = 1;      // количество * для первой строки
+int start = 0;          // счетчик строк
+
+while (high > start)    // цикл для высоты треугольника
+{
+    int startMargin = 0;  // счетчик для отступа слева
+
+    while (margin > startMargin)  // cоздаем отступ слева
+    {
+        Console.Write(" ");
+        startMargin++;
+    }
+
+    startMargin = 0;
+
+    while (starCount > startMargin)  // создание строки
+    {
+        if (start == 0 || start == high - 1 || startMargin == 0 || startMargin == starCount - 1)
+           // Если находимся на краях треугольника или на границах строки
+            Console.Write("*");
+        else
+            Console.Write(" ");
+        startMargin++;
+    }
+
+    Console.WriteLine();
+
+    margin--;  // уменьшаем отступ от левого края при переходе на новую строку
+    starCount += 2; // увеличиваем количество * для новой строки
+    start++;
+}
