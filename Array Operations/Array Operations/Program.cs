@@ -321,7 +321,7 @@ while (x < y)
 }
 */
 
-int high = 3;
+int high = 6;
 int margin = high - 1;  // отступ от левого края
 int starCount = 1;      // количество * для первой строки
 int start = 0;          // счетчик строк
