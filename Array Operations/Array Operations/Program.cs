@@ -202,7 +202,9 @@ while (index < array.Length)
 }
 
 Console.WriteLine("\nOdd numbers: ");
+
 index = 0;
+
 while (index < array.Length)
 {
     if (array[index] % 2 != 0)
@@ -225,6 +227,7 @@ while (index < array.Length)
 }
 
 Console.WriteLine("\nWhat element you want remove?: ");
+
 int userRemove = Convert.ToInt32(Console.ReadLine());
 
 int countRemove = 0;
@@ -255,16 +258,20 @@ while (index < array.Length)
 }
 
 index = 0;
+
 while (index < newArray.Length)
 {
     Console.Write(newArray[index]);
     index++;
 }*/
 
-/*for(int x = 5, y = 10; x < y; x++, y--)
+/*for (int x = 5, y = 10; x < y; ++x, --y)
 {
     Console.WriteLine(x + y);
 }*/
+
+
+
 
 /*int[] array = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 
@@ -321,7 +328,7 @@ while (x < y)
 }
 */
 
-int high = 6;
+/*int high = 6;
 int margin = high - 1;  // отступ от левого края
 int starCount = 1;      // количество * для первой строки
 int start = 0;          // счетчик строк
@@ -341,7 +348,7 @@ while (high > start)    // цикл для высоты треугольника
     while (starCount > startMargin)  // создание строки
     {
         if (start == 0 || start == high - 1 || startMargin == 0 || startMargin == starCount - 1)
-           // Если находимся на краях треугольника или на границах строки
+            // Если находимся на краях треугольника или на границах строки
             Console.Write("*");
         else
             Console.Write(" ");
@@ -353,4 +360,4 @@ while (high > start)    // цикл для высоты треугольника
     margin--;  // уменьшаем отступ от левого края при переходе на новую строку
     starCount += 2; // увеличиваем количество * для новой строки
     start++;
-}
+}*/

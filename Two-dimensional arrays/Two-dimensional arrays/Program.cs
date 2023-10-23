@@ -5,7 +5,7 @@
 проверку.
 При прохождении проверки, заполните массивы данными, получая их от
 пользователя.
-Выведите на экран результат умножения матриц.*/
+Выведите на экран результат умножения матриц.*//*
 
 Console.WriteLine("Enter the number of rows for the first array: ");
 int rowsFirstArray = Convert.ToInt32(Console.ReadLine());
@@ -68,6 +68,8 @@ else
 
     int[,] arrayMultiplied = new int[rowsFirstArray, columnsSecondArray];
 
+    Console.WriteLine("Multiplied matrix: ");
+
     for (int i = 0; i < arrayMultiplied.GetLength(0); i++)
     {
         for (int j = 0; j < arrayMultiplied.GetLength(1); j++)
@@ -78,10 +80,15 @@ else
             {
                 arrayMultiplied[i, j] += arrayOne[i, k] * arrayTwo[k, j];
             }
-            Console.Write($"Multiplied: {arrayMultiplied[i, j]} ");
+            Console.Write($"{arrayMultiplied[i, j]} \t");
         }
+        Console.WriteLine();
+    }*/
 
-    }
+    
+    
+        
+    
     Console.ReadKey();
 }
 
