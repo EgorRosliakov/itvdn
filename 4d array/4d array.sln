@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4d array", "4d array\4d array.csproj", "{04FC6D0C-8087-47B9-BCC0-5E83A5DA1B5F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task2", "Task2\Task2.csproj", "{2B46DDD4-221A-4FB0-8552-76A1A39CCDC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jagged arrays", "jagged arrays\jagged arrays.csproj", "{DC43C64F-6605-41E6-B979-528EBA0AC799}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04FC6D0C-8087-47B9-BCC0-5E83A5DA1B5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04FC6D0C-8087-47B9-BCC0-5E83A5DA1B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04FC6D0C-8087-47B9-BCC0-5E83A5DA1B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04FC6D0C-8087-47B9-BCC0-5E83A5DA1B5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B46DDD4-221A-4FB0-8552-76A1A39CCDC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B46DDD4-221A-4FB0-8552-76A1A39CCDC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B46DDD4-221A-4FB0-8552-76A1A39CCDC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B46DDD4-221A-4FB0-8552-76A1A39CCDC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC43C64F-6605-41E6-B979-528EBA0AC799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC43C64F-6605-41E6-B979-528EBA0AC799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC43C64F-6605-41E6-B979-528EBA0AC799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC43C64F-6605-41E6-B979-528EBA0AC799}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDBAFC49-77E4-4E20-852B-8025A4A9A448}
+	EndGlobalSection
+EndGlobal
