@@ -1,0 +1,14 @@
+C:\Users\Yehor\Desktop\itvdn\Methods\Method parameters\bin\Debug\net6.0\Method parameters.exe
+C:\Users\Yehor\Desktop\itvdn\Methods\Method parameters\bin\Debug\net6.0\Method parameters.deps.json
+C:\Users\Yehor\Desktop\itvdn\Methods\Method parameters\bin\Debug\net6.0\Method parameters.runtimeconfig.json
+C:\Users\Yehor\Desktop\itvdn\Methods\Method parameters\bin\Debug\net6.0\Method parameters.dll
+C:\Users\Yehor\Desktop\itvdn\Methods\Method parameters\bin\Debug\net6.0\Method parameters.pdb
+C:\Users\Yehor\Desktop\itvdn\Methods\Method parameters\obj\Debug\net6.0\Method parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yehor\Desktop\itvdn\Methods\Method parameters\obj\Debug\net6.0\Method parameters.AssemblyInfoInputs.cache
+C:\Users\Yehor\Desktop\itvdn\Methods\Method parameters\obj\Debug\net6.0\Method parameters.AssemblyInfo.cs
+C:\Users\Yehor\Desktop\itvdn\Methods\Method parameters\obj\Debug\net6.0\Method parameters.csproj.CoreCompileInputs.cache
+C:\Users\Yehor\Desktop\itvdn\Methods\Method parameters\obj\Debug\net6.0\Method parameters.dll
+C:\Users\Yehor\Desktop\itvdn\Methods\Method parameters\obj\Debug\net6.0\refint\Method parameters.dll
+C:\Users\Yehor\Desktop\itvdn\Methods\Method parameters\obj\Debug\net6.0\Method parameters.pdb
+C:\Users\Yehor\Desktop\itvdn\Methods\Method parameters\obj\Debug\net6.0\Method parameters.genruntimeconfig.cache
+C:\Users\Yehor\Desktop\itvdn\Methods\Method parameters\obj\Debug\net6.0\ref\Method parameters.dll
