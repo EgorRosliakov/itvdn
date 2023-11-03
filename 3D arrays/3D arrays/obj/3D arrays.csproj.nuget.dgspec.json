@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yehor\\Desktop\\3D arrays\\3D arrays\\3D arrays.csproj": {}
+    "C:\\Users\\Yehor\\Desktop\\itvdn\\3D arrays\\3D arrays\\3D arrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yehor\\Desktop\\3D arrays\\3D arrays\\3D arrays.csproj": {
+    "C:\\Users\\Yehor\\Desktop\\itvdn\\3D arrays\\3D arrays\\3D arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yehor\\Desktop\\3D arrays\\3D arrays\\3D arrays.csproj",
+        "projectUniqueName": "C:\\Users\\Yehor\\Desktop\\itvdn\\3D arrays\\3D arrays\\3D arrays.csproj",
         "projectName": "3D arrays",
-        "projectPath": "C:\\Users\\Yehor\\Desktop\\3D arrays\\3D arrays\\3D arrays.csproj",
+        "projectPath": "C:\\Users\\Yehor\\Desktop\\itvdn\\3D arrays\\3D arrays\\3D arrays.csproj",
         "packagesPath": "C:\\Users\\Yehor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yehor\\Desktop\\3D arrays\\3D arrays\\obj\\",
+        "outputPath": "C:\\Users\\Yehor\\Desktop\\itvdn\\3D arrays\\3D arrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yehor\\AppData\\Roaming\\NuGet\\NuGet.Config",

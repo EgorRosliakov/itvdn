@@ -1,0 +1,14 @@
+C:\Users\Yehor\Desktop\itvdn\Recursion\Recursion\bin\Debug\net6.0\Recursion.exe
+C:\Users\Yehor\Desktop\itvdn\Recursion\Recursion\bin\Debug\net6.0\Recursion.deps.json
+C:\Users\Yehor\Desktop\itvdn\Recursion\Recursion\bin\Debug\net6.0\Recursion.runtimeconfig.json
+C:\Users\Yehor\Desktop\itvdn\Recursion\Recursion\bin\Debug\net6.0\Recursion.dll
+C:\Users\Yehor\Desktop\itvdn\Recursion\Recursion\bin\Debug\net6.0\Recursion.pdb
+C:\Users\Yehor\Desktop\itvdn\Recursion\Recursion\obj\Debug\net6.0\Recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yehor\Desktop\itvdn\Recursion\Recursion\obj\Debug\net6.0\Recursion.AssemblyInfoInputs.cache
+C:\Users\Yehor\Desktop\itvdn\Recursion\Recursion\obj\Debug\net6.0\Recursion.AssemblyInfo.cs
+C:\Users\Yehor\Desktop\itvdn\Recursion\Recursion\obj\Debug\net6.0\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\Yehor\Desktop\itvdn\Recursion\Recursion\obj\Debug\net6.0\Recursion.dll
+C:\Users\Yehor\Desktop\itvdn\Recursion\Recursion\obj\Debug\net6.0\refint\Recursion.dll
+C:\Users\Yehor\Desktop\itvdn\Recursion\Recursion\obj\Debug\net6.0\Recursion.pdb
+C:\Users\Yehor\Desktop\itvdn\Recursion\Recursion\obj\Debug\net6.0\Recursion.genruntimeconfig.cache
+C:\Users\Yehor\Desktop\itvdn\Recursion\Recursion\obj\Debug\net6.0\ref\Recursion.dll
