@@ -1,0 +1,21 @@
+C:\Users\Yehor\Desktop\itvdn\OOP\Classes and objects\Classes and objects\bin\Debug\net6.0\Classes and objects.exe
+C:\Users\Yehor\Desktop\itvdn\OOP\Classes and objects\Classes and objects\bin\Debug\net6.0\Classes and objects.deps.json
+C:\Users\Yehor\Desktop\itvdn\OOP\Classes and objects\Classes and objects\bin\Debug\net6.0\Classes and objects.runtimeconfig.json
+C:\Users\Yehor\Desktop\itvdn\OOP\Classes and objects\Classes and objects\bin\Debug\net6.0\Classes and objects.dll
+C:\Users\Yehor\Desktop\itvdn\OOP\Classes and objects\Classes and objects\bin\Debug\net6.0\Classes and objects.pdb
+C:\Users\Yehor\Desktop\itvdn\OOP\Classes and objects\Classes and objects\obj\Debug\net6.0\Classes and objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yehor\Desktop\itvdn\OOP\Classes and objects\Classes and objects\obj\Debug\net6.0\Classes and objects.AssemblyInfoInputs.cache
+C:\Users\Yehor\Desktop\itvdn\OOP\Classes and objects\Classes and objects\obj\Debug\net6.0\Classes and objects.AssemblyInfo.cs
+C:\Users\Yehor\Desktop\itvdn\OOP\Classes and objects\Classes and objects\obj\Debug\net6.0\Classes and objects.csproj.CoreCompileInputs.cache
+C:\Users\Yehor\Desktop\itvdn\OOP\Classes and objects\Classes and objects\obj\Debug\net6.0\Classes and objects.dll
+C:\Users\Yehor\Desktop\itvdn\OOP\Classes and objects\Classes and objects\obj\Debug\net6.0\refint\Classes and objects.dll
+C:\Users\Yehor\Desktop\itvdn\OOP\Classes and objects\Classes and objects\obj\Debug\net6.0\Classes and objects.pdb
+C:\Users\Yehor\Desktop\itvdn\OOP\Classes and objects\Classes and objects\obj\Debug\net6.0\Classes and objects.genruntimeconfig.cache
+C:\Users\Yehor\Desktop\itvdn\OOP\Classes and objects\Classes and objects\obj\Debug\net6.0\ref\Classes and objects.dll
+C:\Users\Yehor\Desktop\itvdn\OOP\Classes and objects\Classes and objects\bin\Debug\net6.0\Task1.deps.json
+C:\Users\Yehor\Desktop\itvdn\OOP\Classes and objects\Classes and objects\bin\Debug\net6.0\Task1.runtimeconfig.json
+C:\Users\Yehor\Desktop\itvdn\OOP\Classes and objects\Classes and objects\bin\Debug\net6.0\Task1.exe
+C:\Users\Yehor\Desktop\itvdn\OOP\Classes and objects\Classes and objects\bin\Debug\net6.0\Task1.dll
+C:\Users\Yehor\Desktop\itvdn\OOP\Classes and objects\Classes and objects\bin\Debug\net6.0\Task1.pdb
+C:\Users\Yehor\Desktop\itvdn\OOP\Classes and objects\Classes and objects\obj\Debug\net6.0\Classes and objects.csproj.AssemblyReference.cache
+C:\Users\Yehor\Desktop\itvdn\OOP\Classes and objects\Classes and objects\obj\Debug\net6.0\Classes and objects.csproj.CopyComplete
