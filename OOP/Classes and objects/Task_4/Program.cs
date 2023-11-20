@@ -20,8 +20,10 @@ class Program
         Point point3 = new Point(3, 0, "C");
 
 
-        Figure triangle = new Figure(point1, point2, point3);
-        triangle.PerimeterCalculator();
+        var triangle = new Figure(point1, point2, point3);
+        double perimetr = triangle.PerimeterCalculator();
+
+        Console.WriteLine($"{triangle.Name} {perimetr}");
 
         /*Point[] points = new Point[5];
 

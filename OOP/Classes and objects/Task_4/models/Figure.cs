@@ -6,92 +6,44 @@ namespace Task_4.models
     public class Figure
     {
         private Point[] _points;
-
-        private int _countSides;
-
-        private Point _sidesOne;
-        private Point _sidesTwo;
-        private Point _sidesThree;
-        private Point _sidesFour;
-        private Point _sidesFive;
+        public string Name { get;}
 
         public Figure(Point sidesOne, Point sidesTwo, Point sidesThree)
         {
-            _sidesOne = sidesOne;
-            _sidesTwo = sidesTwo;
-            _sidesThree = sidesThree;
-
-            _countSides = 3;
-
-            InitArrayPoints();
+            _points = new[] {sidesOne, sidesTwo, sidesThree};
+            Name = "triangle";
         }
 
         public Figure(Point sidesOne, Point sidesTwo, Point sidesThree, Point sidesFour)
             : this(sidesOne, sidesTwo, sidesThree)
         {
-            _sidesFour = sidesFour;
-
-            _countSides = 4;
-
-            InitArrayPoints();
+            _points = new[] { sidesOne, sidesTwo, sidesThree, sidesFour };
+            Name = "quadrilateral";
         }
 
         public Figure(Point sidesOne, Point sidesTwo, Point sidesThree, Point sidesFour, Point sidesFive)
             : this(sidesOne, sidesTwo, sidesThree, sidesFour)
         {
-            _sidesFive = sidesFive;
-
-            _countSides = 5;
-
-            InitArrayPoints();
+            _points = new[] { sidesOne, sidesTwo, sidesThree, sidesFour, sidesFive };
+            Name = "pentagon";
         }
 
-        public double LengthSide(Point A, Point B) 
-            => Math.Sqrt(Math.Pow(B.NumberX - A.NumberX, 2) + Math.Pow(B.NumberY - A.NumberY, 2));       
-
-        private void InitArrayPoints()
-        {
-            _points = new[] {_sidesOne, _sidesTwo, _sidesThree, _sidesFour, _sidesFive};
-        }
+        private double LengthSide(Point A, Point B) 
+            => Math.Sqrt(Math.Pow(B.NumberX - A.NumberX, 2) + Math.Pow(B.NumberY - A.NumberY, 2));
 
         public double PerimeterCalculator()
         {
-
-        }
-
-       /* public void PerimeterCalculator()
-        {
+            int maxIndexArray = _points.Length - 1;
             double perimetr = 0;
-            string Naim = string.Empty;
 
-            if (_sidesFive != null)
+            for (int i = 0; i < _points.Length; i++)
             {
-                Naim = "pentagon";
-                perimetr += LengthSide(_sidesOne, _sidesTwo);
-                perimetr += LengthSide(_sidesTwo, _sidesThree);
-                perimetr += LengthSide(_sidesThree, _sidesFour);
-                perimetr += LengthSide(_sidesFour, _sidesFive);
-                perimetr += LengthSide(_sidesFive, _sidesOne);
+                perimetr += maxIndexArray == i
+                    ? LengthSide(_points[maxIndexArray], _points[0])
+                    : LengthSide(_points[i], _points[i + 1]);
             }
-            else if (_sidesFour != null)
-            {
-                Naim = "quadrilateral";
-                perimetr += LengthSide(_sidesOne, _sidesTwo);
-                perimetr += LengthSide(_sidesTwo, _sidesThree);
-                perimetr += LengthSide(_sidesThree, _sidesFour);
-                perimetr += LengthSide(_sidesFour, _sidesOne);
-            }
-            else
-            {
-                Naim = "triangle";
-                perimetr += LengthSide(_sidesOne, _sidesTwo);
-                perimetr += LengthSide(_sidesTwo, _sidesThree);
-                perimetr += LengthSide(_sidesThree, _sidesOne);
-            }
-
-            Console.WriteLine($"Polygon name: {Naim}");
-            Console.WriteLine($"Polygon perimeter: {perimetr}");
-        }*/
+            return perimetr;
+        }
     }
 }
 
